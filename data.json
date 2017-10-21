@@ -1,0 +1,843 @@
+{
+            "created_at": "2017-10-20T22:15:28.000Z",
+            "title": "Bridging Rails and Node.js with GRPC",
+            "url": "https://product.reverb.com/bridging-rails-nodejs-with-grpc-5cb58e03189c",
+            "author": "be_erik",
+            "points": 4,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508537728,
+            "_tags": [
+                "story",
+                "author_be_erik",
+                "story_15519471"
+            ],
+            "objectID": "15519471",
+            "_highlightResult": {
+                "title": {
+                    "value": "Bridging Rails and \u003Cem\u003ENode.js\u003C/em\u003E with GRPC",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "url": {
+                    "value": "https://product.reverb.com/bridging-rails-\u003Cem\u003Enodejs\u003C/em\u003E-with-grpc-5cb58e03189c",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "author": {
+                    "value": "be_erik",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T21:26:45.000Z",
+            "title": null,
+            "url": null,
+            "author": "tkl",
+            "points": null,
+            "story_text": null,
+            "comment_text": "She\u0026#x27;s got a shield and sword to fight the onslaught. ~200ms latency, running on golang, node.js, react.js, python. Aim, shoot, also talk (text-to-speech)",
+            "num_comments": null,
+            "story_id": 15519208,
+            "story_title": "Shoot ping pong balls in real time at roboempress",
+            "story_url": "https://letsrobot.tv/robocaster/roboempress/robot/7060011",
+            "parent_id": 15519208,
+            "created_at_i": 1508534805,
+            "_tags": [
+                "comment",
+                "author_tkl",
+                "story_15519208"
+            ],
+            "objectID": "15519217",
+            "_highlightResult": {
+                "author": {
+                    "value": "tkl",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "She's got a shield and sword to fight the onslaught. ~200ms latency, running on golang, \u003Cem\u003Enode.js\u003C/em\u003E, react.js, python. Aim, shoot, also talk (text-to-speech)",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Shoot ping pong balls in real time at roboempress",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://letsrobot.tv/robocaster/roboempress/robot/7060011",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T20:03:16.000Z",
+            "title": null,
+            "url": null,
+            "author": "njpatel",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Hi all - grpcc is a simple cli tool for running interactive or non-interactive rpc calls against gRPC services.\u003Cp\u003EI posted a big update today with some nifty features and thought it could be useful for others too.\u003Cp\u003EIn interactive mode, I mostly use it for debugging \u0026amp; exploring services. It has a full nodejs repl so you can get as complex as you like.\u003Cp\u003EIn non-interactive mode, it\u0026#x27;s useful to run scripts against gRPC services and have the output printed to stdout - great for scripting\u0026#x2F;testing.\u003Cp\u003ECheers!",
+            "num_comments": null,
+            "story_id": 15518715,
+            "story_title": "Show HN: Grpcc – a gRPC cli for easy testing/scripting against gRPC services",
+            "story_url": "https://github.com/njpatel/grpcc",
+            "parent_id": 15518715,
+            "created_at_i": 1508529796,
+            "_tags": [
+                "comment",
+                "author_njpatel",
+                "story_15518715"
+            ],
+            "objectID": "15518745",
+            "_highlightResult": {
+                "author": {
+                    "value": "njpatel",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Hi all - grpcc is a simple cli tool for running interactive or non-interactive rpc calls against gRPC services.\u003Cp\u003EI posted a big update today with some nifty features and thought it could be useful for others too.\u003Cp\u003EIn interactive mode, I mostly use it for debugging \u0026amp; exploring services. It has a full \u003Cem\u003Enodejs\u003C/em\u003E repl so you can get as complex as you like.\u003Cp\u003EIn non-interactive mode, it's useful to run scripts against gRPC services and have the output printed to stdout - great for scripting/testing.\u003Cp\u003ECheers!",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Show HN: Grpcc – a gRPC cli for easy testing/scripting against gRPC services",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/njpatel/grpcc",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T19:42:28.000Z",
+            "title": null,
+            "url": null,
+            "author": "Buttes",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Someone can mine and broadcast blocks that reference an old block, nodes will store the block, in case more are published and it becomes the longest chain, but will otherwise ignore it.",
+            "num_comments": null,
+            "story_id": 15497729,
+            "story_title": "Blockchains explained visually (part 1 of 2)",
+            "story_url": "https://unwttng.com/what-is-a-blockchain",
+            "parent_id": 15506411,
+            "created_at_i": 1508528548,
+            "_tags": [
+                "comment",
+                "author_Buttes",
+                "story_15497729"
+            ],
+            "objectID": "15518628",
+            "_highlightResult": {
+                "author": {
+                    "value": "Buttes",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Someone can mine and broadcast blocks that reference an old block, \u003Cem\u003Enodes\u003C/em\u003E will store the block, in case more are published and it becomes the longest chain, but will otherwise ignore it.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Blockchains explained visually (part 1 of 2)",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://unwttng.com/what-is-a-blockchain",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T15:00:27.000Z",
+            "title": null,
+            "url": null,
+            "author": "gok",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026quot;Oak Ridge is getting around 4,600 Witherspoon nodes to crest above 200 petaflops of peak performance with Summit, most of which comes from the six “Volta” GPU accelerators in the system…\u0026quot;\u003Cp\u003EThe CPUs in HPC increasingly exist primarily to keep the GPUs fed. I\u0026#x27;m curious why they don\u0026#x27;t target having simpler\u0026#x2F;cheaper CPUs that can be moved closer to the GPUs. Throw away stuff like SIMD units; anything that can be done there would be better done on the massively parallel GPU.",
+            "num_comments": null,
+            "story_id": 15514784,
+            "story_title": "IBM Preps Power9 for AI and HPC Launch, Forges Big NUMA Iron",
+            "story_url": "https://www.nextplatform.com/2017/10/16/ibm-preps-power9-ai-hpc-launch-forges-big-numa-iron/",
+            "parent_id": 15514784,
+            "created_at_i": 1508511627,
+            "_tags": [
+                "comment",
+                "author_gok",
+                "story_15514784"
+            ],
+            "objectID": "15516296",
+            "_highlightResult": {
+                "author": {
+                    "value": "gok",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026quot;Oak Ridge is getting around 4,600 Witherspoon \u003Cem\u003Enodes\u003C/em\u003E to crest above 200 petaflops of peak performance with Summit, most of which comes from the six “Volta” GPU accelerators in the system…\u0026quot;\u003Cp\u003EThe CPUs in HPC increasingly exist primarily to keep the GPUs fed. I'm curious why they don't target having simpler/cheaper CPUs that can be moved closer to the GPUs. Throw away stuff like SIMD units; anything that can be done there would be better done on the massively parallel GPU.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "IBM Preps Power9 for AI and HPC Launch, Forges Big NUMA Iron",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://www.nextplatform.com/2017/10/16/ibm-preps-power9-ai-hpc-launch-forges-big-numa-iron/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T14:26:37.000Z",
+            "title": "Show HN: Personalized security audits of your cloud infrastructure",
+            "url": "https://elasticbyte.net/security-audit.html",
+            "author": "nodesocket",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508509597,
+            "_tags": [
+                "story",
+                "author_nodesocket",
+                "story_15516021",
+                "show_hn"
+            ],
+            "objectID": "15516021",
+            "_highlightResult": {
+                "title": {
+                    "value": "Show HN: Personalized security audits of your cloud infrastructure",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "url": {
+                    "value": "https://elasticbyte.net/security-audit.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "\u003Cem\u003Enodes\u003C/em\u003Eocket",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                }
+            }
+        }{
+            "created_at": "2017-10-20T14:02:37.000Z",
+            "title": "Node.js Security Overview",
+            "url": "https://nemethgergely.com/nodejs-security-overview/",
+            "author": "rbanffy",
+            "points": 2,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508508157,
+            "_tags": [
+                "story",
+                "author_rbanffy",
+                "story_15515814"
+            ],
+            "objectID": "15515814",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003Cem\u003ENode.js\u003C/em\u003E Security Overview",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "url": {
+                    "value": "https://nemethgergely.com/\u003Cem\u003Enodejs\u003C/em\u003E-security-overview/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "author": {
+                    "value": "rbanffy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T13:53:08.000Z",
+            "title": "Biddle: self-hosted application distribution for Node.js",
+            "url": "https://github.com/prettydiff/biddle",
+            "author": "jasim",
+            "points": 1,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508507588,
+            "_tags": [
+                "story",
+                "author_jasim",
+                "story_15515744"
+            ],
+            "objectID": "15515744",
+            "_highlightResult": {
+                "title": {
+                    "value": "Biddle: self-hosted application distribution for \u003Cem\u003ENode.js\u003C/em\u003E",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/prettydiff/biddle",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "jasim",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T12:53:42.000Z",
+            "title": "Advanced user's authorizations (ACL) library for Node.js",
+            "url": "https://github.com/terrajs/imperium",
+            "author": "Atinux",
+            "points": 3,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508504022,
+            "_tags": [
+                "story",
+                "author_Atinux",
+                "story_15515341"
+            ],
+            "objectID": "15515341",
+            "_highlightResult": {
+                "title": {
+                    "value": "Advanced user's authorizations (ACL) library for \u003Cem\u003ENode.js\u003C/em\u003E",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/terrajs/imperium",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "Atinux",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T12:00:30.000Z",
+            "title": "Dropbox file logger for WinstonJs. Node.js",
+            "url": "https://github.com/vasanthv/winston-dropbox",
+            "author": "vasanthv",
+            "points": 2,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508500830,
+            "_tags": [
+                "story",
+                "author_vasanthv",
+                "story_15515055"
+            ],
+            "objectID": "15515055",
+            "_highlightResult": {
+                "title": {
+                    "value": "Dropbox file logger for WinstonJs. \u003Cem\u003ENode.js\u003C/em\u003E",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/vasanthv/winston-dropbox",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "vasanthv",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T11:33:59.000Z",
+            "title": "How to Create a Serverless Node.js App with DynamoDB for the First Time",
+            "url": "https://medium.com/@simalexan/serverless-ice-cream-or-create-your-serverless-node-js-micro-service-with-a-database-17a6946251e0",
+            "author": "simalexan",
+            "points": 2,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 0,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508499239,
+            "_tags": [
+                "story",
+                "author_simalexan",
+                "story_15514929"
+            ],
+            "objectID": "15514929",
+            "_highlightResult": {
+                "title": {
+                    "value": "How to Create a Serverless \u003Cem\u003ENode.js\u003C/em\u003E App with DynamoDB for the First Time",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "url": {
+                    "value": "https://medium.com/@simalexan/serverless-ice-cream-or-create-your-serverless-node-js-micro-service-with-a-database-17a6946251e0",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "simalexan",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T10:12:24.000Z",
+            "title": null,
+            "url": null,
+            "author": "a-saleh",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Disclaimer, I mostly do internal tooling, and the honest answer would be Jenkins+Groovy scripts. I am not sure it counts for the purposes of this question :-)\u003Cp\u003ESeems like any time I need to do some actual web-page, somebody else might need to look at, I settle at:\u003Cp\u003E* Vue.js\u003Cp\u003E* Node.js backend\u003Cp\u003E* PouchDB as database\u003Cp\u003EI have million unfinished projects in more esoteric stuff, such as purescript\u0026#x2F;elm\u0026#x2F;clojure. Purescript seems to be winning over on that front.",
+            "num_comments": null,
+            "story_id": 15501960,
+            "story_title": "Ask HN: What is your preferred tech stack for web apps?",
+            "story_url": null,
+            "parent_id": 15501960,
+            "created_at_i": 1508494344,
+            "_tags": [
+                "comment",
+                "author_a-saleh",
+                "story_15501960"
+            ],
+            "objectID": "15514682",
+            "_highlightResult": {
+                "author": {
+                    "value": "a-saleh",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Disclaimer, I mostly do internal tooling, and the honest answer would be Jenkins+Groovy scripts. I am not sure it counts for the purposes of this question :-)\u003Cp\u003ESeems like any time I need to do some actual web-page, somebody else might need to look at, I settle at:\u003Cp\u003E* Vue.js\u003Cp\u003E* \u003Cem\u003ENode.js\u003C/em\u003E backend\u003Cp\u003E* PouchDB as database\u003Cp\u003EI have million unfinished projects in more esoteric stuff, such as purescript/elm/clojure. Purescript seems to be winning over on that front.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Ask HN: What is your preferred tech stack for web apps?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T03:49:17.000Z",
+            "title": null,
+            "url": null,
+            "author": "jwilliams",
+            "points": null,
+            "story_text": null,
+            "comment_text": "I think I\u0026#x27;ve tried everything. Firebase, Netlify, S3+Cloudfront, Github+Cloudflare are the main contenders.\u003Cp\u003EI benchmarked them myself and using \u003Ca href=\"https:\u0026#x2F;\u0026#x2F;www.webpagetest.org\u0026#x2F;\" rel=\"nofollow\"\u003Ehttps:\u0026#x2F;\u0026#x2F;www.webpagetest.org\u0026#x2F;\u003C/a\u003E in numerous locales.\u003Cp\u003ENetlify has the edge as their publishing model is slick. They know there has been an update and can trigger the nodes automatically. My only complaint? They have a soft bandwidth limit - I wish I could pay to lift it. I know they won\u0026#x27;t enforce - it\u0026#x27;s there to stop abuse. But they can take my $. For the apex (sans \u0026quot;www\u0026quot;) domain, you need to let them manage DNS, which is backended by NS1.\u003Cp\u003EFirebase hosting is excellent. Really top class. But I found it to be a little slower on the deploy side. If you think you may use some kind of backend functionality, this is a smart option. Even with an A Record on the DNS they were fast. I think Google\u0026#x27;s Anycast network must be top notch (no surprise, really).\u003Cp\u003EGithub+Cloudflare was pretty good too. But the invalidation model was something you needed to work with. Plus every now and then I\u0026#x27;d hit a cold node (I assume) and it was slower. Overall it was great, but just a nose behind and not as easy to use. One area where they really were consistently ahead was DNS.\u003Cp\u003ESo lots of good options. Reality is they are so close you\u0026#x27;re best going for the option you\u0026#x27;re most comfortable with. For vanilla I love Netlify. For anything JavaScript-y Firebase is great.\u003Cp\u003EEdit: I was curious, so I checked on Netlify. I think they\u0026#x27;re hosted on Google Cloud... Which would make sense.",
+            "num_comments": null,
+            "story_id": 15509459,
+            "story_title": "Which service do you use to host static website?",
+            "story_url": null,
+            "parent_id": 15509459,
+            "created_at_i": 1508471357,
+            "_tags": [
+                "comment",
+                "author_jwilliams",
+                "story_15509459"
+            ],
+            "objectID": "15513433",
+            "_highlightResult": {
+                "author": {
+                    "value": "jwilliams",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "I think I've tried everything. Firebase, Netlify, S3+Cloudfront, Github+Cloudflare are the main contenders.\u003Cp\u003EI benchmarked them myself and using \u003Ca href=\"https://www.webpagetest.org/\" rel=\"nofollow\"\u003Ehttps://www.webpagetest.org/\u003C/a\u003E in numerous locales.\u003Cp\u003ENetlify has the edge as their publishing model is slick. They know there has been an update and can trigger the \u003Cem\u003Enodes\u003C/em\u003E automatically. My only complaint? They have a soft bandwidth limit - I wish I could pay to lift it. I know they won't enforce - it's there to stop abuse. But they can take my $. For the apex (sans \u0026quot;www\u0026quot;) domain, you need to let them manage DNS, which is backended by NS1.\u003Cp\u003EFirebase hosting is excellent. Really top class. But I found it to be a little slower on the deploy side. If you think you may use some kind of backend functionality, this is a smart option. Even with an A Record on the DNS they were fast. I think Google's Anycast network must be top notch (no surprise, really).\u003Cp\u003EGithub+Cloudflare was pretty good too. But the invalidation model was something you needed to work with. Plus every now and then I'd hit a cold node (I assume) and it was slower. Overall it was great, but just a nose behind and not as easy to use. One area where they really were consistently ahead was DNS.\u003Cp\u003ESo lots of good options. Reality is they are so close you're best going for the option you're most comfortable with. For vanilla I love Netlify. For anything JavaScript-y Firebase is great.\u003Cp\u003EEdit: I was curious, so I checked on Netlify. I think they're hosted on Google Cloud... Which would make sense.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Which service do you use to host static website?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T02:14:22.000Z",
+            "title": null,
+            "url": null,
+            "author": "woutr_be",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Since you\u0026#x27;re here, I would like to take this opportunity to ask a quick question. My Jekyll site is already running on Netlify, but instead of manually creating files, I used Google Sheets and a simple NodeJS script to sync everything. Would it be possible to run this NodeJS script on Netlify CD and push to git and then let Netlify build my Jekyll site? (The script basically pulls a Google Sheet, creates markdown files and download and resizes some images)",
+            "num_comments": null,
+            "story_id": 15509459,
+            "story_title": "Which service do you use to host static website?",
+            "story_url": null,
+            "parent_id": 15511939,
+            "created_at_i": 1508465662,
+            "_tags": [
+                "comment",
+                "author_woutr_be",
+                "story_15509459"
+            ],
+            "objectID": "15513096",
+            "_highlightResult": {
+                "author": {
+                    "value": "woutr_be",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Since you're here, I would like to take this opportunity to ask a quick question. My Jekyll site is already running on Netlify, but instead of manually creating files, I used Google Sheets and a simple \u003Cem\u003ENodeJS\u003C/em\u003E script to sync everything. Would it be possible to run this \u003Cem\u003ENodeJS\u003C/em\u003E script on Netlify CD and push to git and then let Netlify build my Jekyll site? (The script basically pulls a Google Sheet, creates markdown files and download and resizes some images)",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Which service do you use to host static website?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-20T01:13:54.000Z",
+            "title": null,
+            "url": null,
+            "author": "Immortalin",
+            "points": null,
+            "story_text": null,
+            "comment_text": "Assuming that your customers don\u0026#x27;t have more nodes than you",
+            "num_comments": null,
+            "story_id": 15509147,
+            "story_title": "How to Create a Private Ethereum Blockchain",
+            "story_url": "https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891",
+            "parent_id": 15511935,
+            "created_at_i": 1508462034,
+            "_tags": [
+                "comment",
+                "author_Immortalin",
+                "story_15509147"
+            ],
+            "objectID": "15512891",
+            "_highlightResult": {
+                "author": {
+                    "value": "Immortalin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "Assuming that your customers don't have more \u003Cem\u003Enodes\u003C/em\u003E than you",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "How to Create a Private Ethereum Blockchain",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-19T23:13:58.000Z",
+            "title": "42 is looking for a data engineer in SF",
+            "url": null,
+            "author": "nickporter",
+            "points": 1,
+            "story_text": "After graduating from YC (W14), we\u0026#x27;ve been quietly building the most loved tool in retail. Today, our analytics stack is used and relied on by some of the most innovative brands in fashion like AllSaints, Global Brands Group and Rebecca Minkoff.\u003Cp\u003EOur dashboard helps CEOs, Sales Associates, and everyone in-between, to get the answers they need to do their work.\u003Cp\u003EAs a data engineer at 42, and you\u0026#x27;ll be working closely with the sales team to onboard new customers. As a member of the dev team, you\u0026#x27;ll also be working on our core product, data model, query engine and integration framework.\u003Cp\u003EYou should have at least 2 years of professional experience as an engineer. You should also have expert-level knowledge of Python, SQL, Spark (or any other data processing tool). Bonus points if you\u0026#x27;re familiar with Node.js \u0026#x2F; JavaScript, since that\u0026#x27;s what we use for our services. Experience with retail data is also a plus.\u003Cp\u003E\u003Ci\u003EYour responsibilities will include\u003C/i\u003E\u003Cp\u003E+ Leveraging our data processing infrastructure to build integrations with customer\u0026#x27;s systems, as well as third party datasets and APIs.\u003Cp\u003E+ Improving our Spark pipeline, core data model and query engine.\u003Cp\u003E+ Working closely with customers to get feedback, gather requirements, give training sessions, and generally delight them with the cool stuff you\u0026#x27;ll release.\u003Cp\u003E\u003Ci\u003ESome of our benefits\u003C/i\u003E\u003Cp\u003E+ Generous equity in a seed-stage startup\u003Cp\u003E+ Flexible vacation policy\u003Cp\u003E+ Medical, dental and vision insurance\u003Cp\u003E+ Any snack, beverage and gear you need\u003Cp\u003E+ Discounts from our happy customers\u003Cp\u003E+ Laid-back office in SOMA, 5 mins away from Embarcadero Bart station and the Transbay terminal.\u003Cp\u003EIf you\u0026#x27;re interested, send me an email:\u003Cp\u003Enick+dataeng@42technologies.com",
+            "comment_text": null,
+            "num_comments": null,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508454838,
+            "_tags": [
+                "job",
+                "author_nickporter",
+                "story_15512345"
+            ],
+            "objectID": "15512345",
+            "_highlightResult": {
+                "title": {
+                    "value": "42 is looking for a data engineer in SF",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "nickporter",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "After graduating from YC (W14), we've been quietly building the most loved tool in retail. Today, our analytics stack is used and relied on by some of the most innovative brands in fashion like AllSaints, Global Brands Group and Rebecca Minkoff.\u003Cp\u003EOur dashboard helps CEOs, Sales Associates, and everyone in-between, to get the answers they need to do their work.\u003Cp\u003EAs a data engineer at 42, and you'll be working closely with the sales team to onboard new customers. As a member of the dev team, you'll also be working on our core product, data model, query engine and integration framework.\u003Cp\u003EYou should have at least 2 years of professional experience as an engineer. You should also have expert-level knowledge of Python, SQL, Spark (or any other data processing tool). Bonus points if you're familiar with \u003Cem\u003ENode.js\u003C/em\u003E / JavaScript, since that's what we use for our services. Experience with retail data is also a plus.\u003Cp\u003E\u003Ci\u003EYour responsibilities will include\u003C/i\u003E\u003Cp\u003E+ Leveraging our data processing infrastructure to build integrations with customer's systems, as well as third party datasets and APIs.\u003Cp\u003E+ Improving our Spark pipeline, core data model and query engine.\u003Cp\u003E+ Working closely with customers to get feedback, gather requirements, give training sessions, and generally delight them with the cool stuff you'll release.\u003Cp\u003E\u003Ci\u003ESome of our benefits\u003C/i\u003E\u003Cp\u003E+ Generous equity in a seed-stage startup\u003Cp\u003E+ Flexible vacation policy\u003Cp\u003E+ Medical, dental and vision insurance\u003Cp\u003E+ Any snack, beverage and gear you need\u003Cp\u003E+ Discounts from our happy customers\u003Cp\u003E+ Laid-back office in SOMA, 5 mins away from Embarcadero Bart station and the Transbay terminal.\u003Cp\u003EIf you're interested, send me an email:\u003Cp\u003Enick+dataeng@42technologies.com",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                }
+            }
+        }{
+            "created_at": "2017-10-19T18:46:21.000Z",
+            "title": null,
+            "url": null,
+            "author": "RussianCow",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; parallel computing in JS is like trying to write a web framework in Rust. Sure, you can do it, but Node is already better suited to doing that. At best, you\u0026#x27;re making a worse version of something that already exists.\u003Cp\u003EI agree with you, but my point is it\u0026#x27;s not black and white. For a sufficiently small or simple project, it might make sense to write a web backend in Rust, or do parallel computing in JS, if the cost of learning a new platform outweighs the cost of using the \u0026quot;wrong tool\u0026quot;.\u003Cp\u003EIn most circumstances, yes, you probably shouldn\u0026#x27;t use Node.js for parallel computing tasks, just like you shouldn\u0026#x27;t use C++ for web development, but for some use cases it might be useful. And maybe those use cases don\u0026#x27;t exist (I don\u0026#x27;t have much experience in this area, so I don\u0026#x27;t know), but I just don\u0026#x27;t like when blanket statements like \u0026quot;use the right tool for the job\u0026quot; dismiss the work other people have done. Surely if Microsoft created this, they have a use case in mind for it?",
+            "num_comments": null,
+            "story_id": 15498219,
+            "story_title": "Napa.js: A multi-threaded JavaScript runtime",
+            "story_url": "https://github.com/Microsoft/napajs",
+            "parent_id": 15507675,
+            "created_at_i": 1508438781,
+            "_tags": [
+                "comment",
+                "author_RussianCow",
+                "story_15498219"
+            ],
+            "objectID": "15510515",
+            "_highlightResult": {
+                "author": {
+                    "value": "RussianCow",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; parallel computing in JS is like trying to write a web framework in Rust. Sure, you can do it, but Node is already better suited to doing that. At best, you're making a worse version of something that already exists.\u003Cp\u003EI agree with you, but my point is it's not black and white. For a sufficiently small or simple project, it might make sense to write a web backend in Rust, or do parallel computing in JS, if the cost of learning a new platform outweighs the cost of using the \u0026quot;wrong tool\u0026quot;.\u003Cp\u003EIn most circumstances, yes, you probably shouldn't use \u003Cem\u003ENode.js\u003C/em\u003E for parallel computing tasks, just like you shouldn't use C++ for web development, but for some use cases it might be useful. And maybe those use cases don't exist (I don't have much experience in this area, so I don't know), but I just don't like when blanket statements like \u0026quot;use the right tool for the job\u0026quot; dismiss the work other people have done. Surely if Microsoft created this, they have a use case in mind for it?",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Napa.js: A multi-threaded JavaScript runtime",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/Microsoft/napajs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-19T18:23:00.000Z",
+            "title": null,
+            "url": null,
+            "author": "flavio81",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt;\u003Ci\u003EI really don\u0026#x27;t understand modern web\u0026#x2F;JS developers. They seem to ignore traditional solutions and\u0026#x2F;or proclaim them as evil, and then they go on to employ a \u0026#x27;new\u0026#x27; solution that is 3× as complex, performs 5× worse and requires 10× as many dependencies\u0026#x2F;tools\u0026#x2F;frameworks\u0026#x2F;etc.\u003C/i\u003E\u003Cp\u003EIt is, perhaps, because a significant amount of Node.js developers came from front-end-only development, thus unfamiliar with the traditional approaches (in this case, using threads). An example is the many cases in which a document store as MongoDB is (wrongly) used for data that is mostly relational.\u003Cp\u003ESimply put, they never were taught the traditional approaches first.",
+            "num_comments": null,
+            "story_id": 15498219,
+            "story_title": "Napa.js: A multi-threaded JavaScript runtime",
+            "story_url": "https://github.com/Microsoft/napajs",
+            "parent_id": 15506376,
+            "created_at_i": 1508437380,
+            "_tags": [
+                "comment",
+                "author_flavio81",
+                "story_15498219"
+            ],
+            "objectID": "15510307",
+            "_highlightResult": {
+                "author": {
+                    "value": "flavio81",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt;\u003Ci\u003EI really don't understand modern web/JS developers. They seem to ignore traditional solutions and/or proclaim them as evil, and then they go on to employ a 'new' solution that is 3× as complex, performs 5× worse and requires 10× as many dependencies/tools/frameworks/etc.\u003C/i\u003E\u003Cp\u003EIt is, perhaps, because a significant amount of \u003Cem\u003ENode.js\u003C/em\u003E developers came from front-end-only development, thus unfamiliar with the traditional approaches (in this case, using threads). An example is the many cases in which a document store as MongoDB is (wrongly) used for data that is mostly relational.\u003Cp\u003ESimply put, they never were taught the traditional approaches first.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Napa.js: A multi-threaded JavaScript runtime",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_url": {
+                    "value": "https://github.com/Microsoft/napajs",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }{
+            "created_at": "2017-10-19T16:31:33.000Z",
+            "title": null,
+            "url": null,
+            "author": "dabockster",
+            "points": null,
+            "story_text": null,
+            "comment_text": "\u0026gt; they only want to produce eye-candy that they think makes their portfolios look cool\u003Cp\u003EYou got it. I\u0026#x27;m finishing up a contract for one such firm that loves to use Wordpress for \u003Ci\u003Eeverything\u003C/i\u003E when 9\u0026#x2F;10 of their sites could be better served by static HTML pages and better CSS. But no, that\u0026#x27;s soooooo last decade, so the users get a Wordpress\u0026#x2F;Sass can of worms that requires entire LAMP and Node.js stacks to operate properly.\u003Cp\u003EI was thinking about rebuilding my portfolio site in a \u0026quot;responsive framework\u0026quot;, but decided against it when I realized I can achieve the same effect with static HTML and separate CSS files for each page.",
+            "num_comments": null,
+            "story_id": 15506763,
+            "story_title": "Ask HN: Anyone getting sick of all the 'web apps'?",
+            "story_url": null,
+            "parent_id": 15507058,
+            "created_at_i": 1508430693,
+            "_tags": [
+                "comment",
+                "author_dabockster",
+                "story_15506763"
+            ],
+            "objectID": "15509340",
+            "_highlightResult": {
+                "author": {
+                    "value": "dabockster",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "comment_text": {
+                    "value": "\u0026gt; they only want to produce eye-candy that they think makes their portfolios look cool\u003Cp\u003EYou got it. I'm finishing up a contract for one such firm that loves to use Wordpress for \u003Ci\u003Eeverything\u003C/i\u003E when 9/10 of their sites could be better served by static HTML pages and better CSS. But no, that's soooooo last decade, so the users get a Wordpress/Sass can of worms that requires entire LAMP and \u003Cem\u003ENode.js\u003C/em\u003E stacks to operate properly.\u003Cp\u003EI was thinking about rebuilding my portfolio site in a \u0026quot;responsive framework\u0026quot;, but decided against it when I realized I can achieve the same effect with static HTML and separate CSS files for each page.",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "story_title": {
+                    "value": "Ask HN: Anyone getting sick of all the 'web apps'?",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        } {
+            "created_at": "2017-10-19T15:05:19.000Z",
+            "title": "StdLib Sourcecode: Share Node.js “Serverless” Code with Developers Worldwide",
+            "url": "https://medium.com/stdlibhq/introducing-stdlib-sourcecode-share-your-node-js-serverless-code-with-developers-worldwide-b8fd5714e430",
+            "author": "petercooper",
+            "points": 6,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 1,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1508425519,
+            "_tags": [
+                "story",
+                "author_petercooper",
+                "story_15508518"
+            ],
+            "objectID": "15508518",
+            "_highlightResult": {
+                "title": {
+                    "value": "StdLib Sourcecode: Share \u003Cem\u003ENode.js\u003C/em\u003E “Serverless” Code with Developers Worldwide",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "nodejs"
+                    ]
+                },
+                "url": {
+                    "value": "https://medium.com/stdlibhq/introducing-stdlib-sourcecode-share-your-node-js-serverless-code-with-developers-worldwide-b8fd5714e430",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "petercooper",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
